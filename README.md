@@ -24,7 +24,7 @@ Once all players are connected, the session can begin. The overlay will automati
 
 ### Example Screenshot:
 
-![image](https://github.com/user-attachments/assets/d9eaba23-7645-448f-8349-5fa64cd622c2)
+![image](https://github.com/user-attachments/assets/edcd1927-dc10-427d-afe7-8cdcd6ca4e23)
 
 ---
 
